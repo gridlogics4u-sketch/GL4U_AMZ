@@ -1,0 +1,14 @@
+{
+    "plan1": {
+        "amount": "Rs 600",
+        "upiLink": "upi://pay?pa=anilkumarmaurya2407@Okicici&pn=GRID%20LOGICS%204U&am=600&cu=INR"
+    },
+    "plan2": {
+        "amount": "Rs 1,200",
+        "upiLink": "upi://pay?pa=anilkumarmaurya2407@Okicici&pn=GRID%20LOGICS%204U&am=1200&cu=INR"
+    },
+    "plan3": {
+        "amount": "Rs 6,000",
+        "upiLink": "upi://pay?pa=anilkumarmaurya2407@Okicici&pn=GRID%20LOGICS%204U&am=6000&cu=INR"
+    }
+}
